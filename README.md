@@ -1,2 +1,2 @@
 # python
-All python important concept learning
+All python important concept learning. 
